@@ -1,6 +1,8 @@
 # Unit 11 Express Note Taker
 Note taking application designed to write, save, and delete notes, written to and retrieved from a backend JSON file
 
+## Example Usage
+![](./sample_usage.gif)
 
 ## Approach
 As the front end was already created, I needed to look at connecting this to the backend. I broke down the problem into smaller objectives:
